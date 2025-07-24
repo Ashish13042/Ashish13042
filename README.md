@@ -76,10 +76,6 @@ Welcome to my GitHub! I’m a passionate web developer constantly exploring new 
 
 ---
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ashish13042&theme=radical)
-
 ---
 
 ## 🏆 GitHub Trophies
