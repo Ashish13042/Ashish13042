@@ -90,13 +90,6 @@ Welcome to my GitHub! I’m a passionate web developer constantly exploring new 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-rawat-01640b369)
 
-
----
-
-## ✨ Fun Fact
-
-> *“Code is like humor. When you have to explain it, it’s bad.”* 😄
-
 ---
 
 Thanks for visiting! ⭐
