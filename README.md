@@ -7,7 +7,7 @@ Welcome to my GitHub! I’m a passionate web developer constantly exploring new 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **React**, **Node.js**, and **Next.js** projects.
-- 🌱 I’m expanding my skills in **Blockchain**, **QA**, and **Software Testing** — exploring tools like **Selenium**, **Jira**, and **JMeter**.
+- 🚀 Aspiring Developer passionate about modern web technologies. Currently diving deep into React and Next.js for frontend, and Python/Node.js for backend development.
 - 💬 I enjoy tackling new challenges and collaborating on impactful ideas.
 - 📫 Reach me at: [rawatashish0100101@gmail.com](mailto:rawatashish0100101@gmail.com)
 
