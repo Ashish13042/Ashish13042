@@ -1,13 +1,13 @@
 # 👋 Hey there, I'm Ashish Rawat!
 
-Welcome to my GitHub! I’m a passionate web developer constantly exploring new technologies and building cool stuff.
+Welcome to my GitHub! I’m a passionate software developer constantly exploring new technologies and building cool stuff.
 
 ---
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **React**, **Node.js**, and **Next.js** projects.
-- 🚀 Aspiring Developer passionate about modern web technologies. Currently diving deep into React and Next.js for frontend, and Python/Node.js for backend development.
+- 🚀 Aspiring Developer passionate about modern web technologies. Currently diving deep into React and Next.js for frontend, and Python/Java/Node.js for backend development.
 - 💬 I enjoy tackling new challenges and collaborating on impactful ideas.
 - 📫 Reach me at: [rawatashish0100101@gmail.com](mailto:rawatashish0100101@gmail.com)
 
